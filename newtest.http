@@ -1,0 +1,11 @@
+GET https://blooming-sierra-17635.herokuapp.com/api/v1/user
+
+###
+POST https://blooming-sierra-17635.herokuapp.com/api/v1/user
+Content-Type: application/json
+
+{
+  "age": 54,
+  "dob": "2005-12-31",
+  "email": "uvkvvhuvchv"
+}
